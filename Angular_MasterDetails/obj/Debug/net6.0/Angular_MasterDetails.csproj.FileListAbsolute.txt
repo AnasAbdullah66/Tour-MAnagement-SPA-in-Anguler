@@ -1,0 +1,1099 @@
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\spa.proxy.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.staticwebassets.runtime.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.exe
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.deps.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.runtimeconfig.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Humanizer.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\spa.proxy.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfo.cs
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Angular_MasterDetails.props
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Angular_MasterDetails.props
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Angular_MasterDetails.props
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\scopedcss\bundle\Angular_MasterDetails.styles.css
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CopyComplete
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\refint\Angular_MasterDetails.dll
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.genruntimeconfig.cache
+C:\Users\student\Desktop\Master Details\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\ref\Angular_MasterDetails.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\spa.proxy.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\package-lock.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.staticwebassets.runtime.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.exe
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.deps.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.runtimeconfig.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\spa.proxy.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfo.cs
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Angular_MasterDetails.props
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Angular_MasterDetails.props
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Angular_MasterDetails.props
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\scopedcss\bundle\Angular_MasterDetails.styles.css
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CopyComplete
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\refint\Angular_MasterDetails.dll
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.genruntimeconfig.cache
+C:\Users\Victor\Desktop\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\ref\Angular_MasterDetails.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\spa.proxy.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\package-lock.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.staticwebassets.runtime.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.exe
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.deps.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.runtimeconfig.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.AssemblyReference.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\spa.proxy.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfoInputs.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfo.cs
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cs
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Angular_MasterDetails.props
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Angular_MasterDetails.props
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Angular_MasterDetails.props
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\scopedcss\bundle\Angular_MasterDetails.styles.css
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CopyComplete
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\refint\Angular_MasterDetails.dll
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.pdb
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.genruntimeconfig.cache
+C:\Users\Anas\Downloads\AngularEvidence(1)\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\ref\Angular_MasterDetails.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.Development.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\appsettings.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\package-lock.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\spa.proxy.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.staticwebassets.runtime.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.exe
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.deps.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.runtimeconfig.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Angular_MasterDetails.pdb
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Humanizer.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Common.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.AssemblyReference.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\spa.proxy.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfoInputs.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.AssemblyInfo.cs
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CoreCompileInputs.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.MvcApplicationPartsAssemblyInfo.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.RazorAssemblyInfo.cs
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.build.Angular_MasterDetails.props
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Angular_MasterDetails.props
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Angular_MasterDetails.props
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.build.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\staticwebassets.development.json
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\scopedcss\bundle\Angular_MasterDetails.styles.css
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.csproj.CopyComplete
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\refint\Angular_MasterDetails.dll
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.pdb
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\Angular_MasterDetails.genruntimeconfig.cache
+D:\AngularEvidence\AngularEvidence\Angular_MasterDetails\obj\Debug\net6.0\ref\Angular_MasterDetails.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "JWHAaxb2gSM339KNHRqeWNHG4R2oYT52KF8z4P/XSHI=",
+  "Source": "Angular_MasterDetails",
+  "BasePath": "_content/Angular_MasterDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Angular_MasterDetails\\wwwroot",
+      "Source": "Angular_MasterDetails",
+      "ContentRoot": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/Angular_MasterDetails",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\favicon.ico",
+      "SourceId": "Angular_MasterDetails",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/Angular_MasterDetails",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\5e3ca421-04c3-45ce-84a7-6d374b5f0d3d.jpg",
+      "SourceId": "Angular_MasterDetails",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/Angular_MasterDetails",
+      "RelativePath": "Images/5e3ca421-04c3-45ce-84a7-6d374b5f0d3d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5e3ca421-04c3-45ce-84a7-6d374b5f0d3d.jpg"
+    },
+    {
+      "Identity": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\8f0bf84c-8bbc-4fd7-a0cc-3e7ebdd27c41.webp",
+      "SourceId": "Angular_MasterDetails",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/Angular_MasterDetails",
+      "RelativePath": "Images/8f0bf84c-8bbc-4fd7-a0cc-3e7ebdd27c41.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8f0bf84c-8bbc-4fd7-a0cc-3e7ebdd27c41.webp"
+    },
+    {
+      "Identity": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\d61e46ea-5a76-4055-9792-1ad6124e471f.jpeg",
+      "SourceId": "Angular_MasterDetails",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AngularEvidence\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\",
+      "BasePath": "_content/Angular_MasterDetails",
+      "RelativePath": "Images/d61e46ea-5a76-4055-9792-1ad6124e471f.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\d61e46ea-5a76-4055-9792-1ad6124e471f.jpeg"
+    }
+  ]
+}

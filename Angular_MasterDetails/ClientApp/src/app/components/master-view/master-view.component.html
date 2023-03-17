@@ -1,0 +1,53 @@
+  <div class="row no-gutters border p-2">
+    <div class="col">
+      <div class="d-flex justify-content-between">
+        <h3 style="font-size:larger; font-weight:700; text-align:center;">Patient Information</h3>
+        <div class="d-flex justify-content-end mb-4">
+          <button type="button" [routerLink]="['/masterdetails/Create']" class="btn btn-primary">Create New</button>
+        </div>
+      </div>
+
+      <div *ngFor="let item of bookingList" class="card mb-4 d-flex justify-content-center align-items-center" style="align-content:center;">
+        <div class="card-header row no-gutters jumbotron p-2 mb-1">
+
+          
+
+            <div class="col-md-3">
+              
+                <img src="http://localhost:5117/Images/{{item.picture}}" class="ml-10" width="100">
+              
+            </div>
+            <div class="col-md-7">
+              <b>Patient Name :</b> {{item.clientName}}
+              <br />
+              <b>Age :</b> {{item.phoneNo}}
+              <br />
+              <b>Prescribed Date :</b> {{item.birthDate}}
+            </div>
+            
+          
+          <div class="col-md-2 my-auto d-flex justify-content-end">
+            <button [routerLink]="['/masterdetails/Edit/', item.clientId]" class="btn btn-warning btn-sm me-2">Edit</button>
+            <button (click)="OnDelete(item)" class="btn btn-danger btn-sm">Delete</button>
+          </div>
+
+        </div>
+        <div class="card-body">
+          <table class="table table-bordered table-striped table-primary table-sm">
+            <thead>
+              <tr>
+                <th>Test Id</th>
+                <th>Test Name</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let spotItem of item.spotItems">
+                <td>{{spotItem.spotId}}</td>
+                <td>{{getSpotName(spotItem.spotId)}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
